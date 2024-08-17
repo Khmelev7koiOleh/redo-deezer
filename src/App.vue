@@ -48,7 +48,7 @@ onBeforeMount(() => {
       </div>
       <img
         class="rounded-full w-[33px]"
-        src="https://yt3.ggpht.com/e9o-24_frmNSSVvjS47rT8qCHgsHNiedqgXbzmrmpsj6H1ketcufR1B9vLXTZRa30krRksPj=s88-c-k-c0x00ffffff-no-rj-mo"
+        src="https://yt3.ggpht.com/yti/ANjgQV_mkbW6thxjoqx0_xQ_HHeAh43oashCGX7oJqVLNOM=s88-c-k-c0x00ffffff-no-rj-mo"
       >
     </div>
   </div>
